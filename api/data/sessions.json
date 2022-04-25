@@ -3630,6 +3630,34 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "My new session",
+      "description": "Some new thing Im doing",
+      "level": "Intermediate",
+      "day": "Tuesday",
+      "id": "be47c620-63bb-4798-aa0b-c26110e9814b"
+    },
+    {
+      "title": "Another new session",
+      "description": "Something new",
+      "level": "Intermediate",
+      "day": "Friday",
+      "id": "c4dfb7ab-3719-475b-bb80-24ae622f9ed5"
+    },
+    {
+      "title": "MY NEW GRAPHQL SESSION",
+      "description": "DESCRIPTION THIAGO",
+      "level": "Intermediate",
+      "day": "Wednesday",
+      "id": "5c53485b-0542-4e73-a7a0-4a156dfb13b9"
+    },
+    {
+      "title": "Updated Now?",
+      "description": "Again?",
+      "level": "Intermediate",
+      "day": "Wednesday",
+      "id": "fe399eae-91dd-43b5-b1d8-0ead8adad81b"
     }
   ]
 }
